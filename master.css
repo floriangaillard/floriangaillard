@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background: linear-gradient(135deg, #3e312f, #282c34);
+  color: white
+
+}
+
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+a {
+  color: #fc6500;
+}
+
+iframe{
+  max-width: 100%;
+	height: auto;
+}
